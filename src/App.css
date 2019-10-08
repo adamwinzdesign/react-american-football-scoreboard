@@ -30,7 +30,7 @@
   place-items: center;
   border: 3px solid white;
   border-radius: 0.5rem;
-  width: 15rem;
+  width: 20rem;
 }
 
 .home {
@@ -97,7 +97,7 @@
   font-family: "Ozone";
   font-size: 5rem;
   color: var(--red);
-  width: 7rem;
+  width: 12rem;
   text-align: center;
   background-color: var(--black);
   margin-top: 1rem;
